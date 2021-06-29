@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:orientation="horizontal">
+    <EditText
+        android:layout_width="0dp"
+        android:singleLine="true"
+        android:layout_height="wrap_content"
+        android:id="@+id/search_word"
+        android:drawableEnd="@drawable/ic_baseline_search_24"
+        android:drawableRight="@drawable/ic_baseline_search_24"
+        android:padding="10dp"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="4"
+        android:drawablePadding="16dp"
+        android:background="@drawable/rectangle2"/>
+    <ImageView
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_weight="1"
+        android:id="@+id/bookmarks"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/ic_baseline_bookmark_add_24"/>
+</LinearLayout>

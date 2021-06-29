@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mobulous</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_splash_text">Mobulous Assessment Test</string>
+    <string name="app_login">Login</string>
+    <string name="app_password">Password</string>
+    <string name="app_mobile">Mobile Number</string>
+    <string name="app_login_register">Login or Register to continue</string>
+    <string name="app_login_verify">Phone Verification</string>
+    <string name="app_login_message">You have send a verification code on your mobile number </string>
+    <string name="app_login_code">verification code</string>
+    <string name="app_resend">Resend code in</string>
+    <string name="app_mobile_number">+919876543210</string>
+    <string name="app_problem">Problem receiving verification code?</string>
+    <string name="app_contacts">Contacts</string>
+
+    <string name="app_login_new_user"><b color="#000000">New user?</b> REGISTER</string>
+    <string name="app_instruction">Don&#8217;t worry your date will not be shared with anyone please read our
+    <font color="#23def"> Terms of service </font>  and  <font color="#23def">privacy policy</font>    </string>
+</resources>
